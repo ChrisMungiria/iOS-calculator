@@ -1,3 +1,3 @@
 # This code is from ProgHub ASMR
 
-The link to the code is https://www.youtube.com/watch?v=MaV9VqFMzB4
+The link to the video is https://www.youtube.com/watch?v=MaV9VqFMzB4
